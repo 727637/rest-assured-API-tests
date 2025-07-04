@@ -16,6 +16,7 @@ This repository contains a BDD-style REST API test automation framework using Py
 - Beautiful Allure HTML reports
 
 📂 Project Structure
+
 REST_Assured/
 ├── features/
 │ ├── steps/
